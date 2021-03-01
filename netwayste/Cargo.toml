@@ -41,5 +41,5 @@ version = "0.6.3"
 features = ["codec", "net"]
 
 [dev-dependencies]
-proptest             = "0.10"
+proptest             = "1.0"
 tokio-test = "*"
